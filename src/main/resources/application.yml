@@ -7,3 +7,9 @@ spring:
 server:
   servlet:
       context-path: /ex-beginner
+logging:
+ level:
+  org:
+   springframework:
+    jdbc:
+     core: TRACE

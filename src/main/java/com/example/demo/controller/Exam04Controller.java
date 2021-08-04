@@ -13,7 +13,6 @@ import com.example.demo.form.UserForm;
 
 @Controller
 @RequestMapping("/exam04")
-
 public class Exam04Controller {
 	
 	@ModelAttribute
